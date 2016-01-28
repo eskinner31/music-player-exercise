@@ -14,6 +14,11 @@ Music Player Example
 ![Music Player on Load](./images/musicplayersample.png)
 
 
+
+
+
+
+
 Music Player w/Track Selected.
 ![Music Player with Track Selected](./images/playingtracksample.png)
 
